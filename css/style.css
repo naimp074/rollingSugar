@@ -14,3 +14,17 @@ main{
     object-fit: cover;
 
 }
+
+.videoCont{
+    max-height: 380px;
+    object-fit: cover;
+    object-position: 50% 15%;
+}
+
+@media (min-width: 992px){
+    .videoCont{
+        max-height: 550px;
+        object-fit: cover;
+        object-position: 50% 13%;
+    }
+}
