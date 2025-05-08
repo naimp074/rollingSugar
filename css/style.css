@@ -20,6 +20,9 @@ main{
     object-fit: cover;
     object-position: 50% 15%;
 }
+a.text-decoration-none {
+    text-decoration: none !important;
+  }
 
 @media (min-width: 992px){
     .videoCont{
