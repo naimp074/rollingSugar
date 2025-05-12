@@ -1,23 +1,30 @@
-# RolingSugar - blog de recetas de cocina 
- 
-Practica de maquetado con bootstrap y aprendimos los comandos en git. 
+# 🍰 RolingSugar - Blog de Recetas de Cocina
 
-## Demo del proyecto 
+**RolingSugar** es un blog de recetas desarrollado como práctica de maquetado con **Bootstrap 5**. Durante el desarrollo también se aprendieron y aplicaron comandos básicos de **Git** para el control de versiones.
 
-Mira la demo del proyecto [aqui](https://rollingsugarnp.netlify.app/)
+---
 
+## 🔗 Demo del Proyecto
 
-## Tecnologias utilizadas 🐱‍👤
+👉 [Ver la demo en Netlify](https://rollingsugarnp.netlify.app/)
 
--HTML5
--CSS3
--[Bootstrap v5.3]()
+---
 
-## Como ejecutar el proyecto 
+## 🛠️ Tecnologías Utilizadas
 
-1. Clonarpositorio escribiendo en una terminal el siguentie comando:`git clone`
+- 🧱 **HTML5**  
+- 🎨 **CSS3**  
+- ⚙️ [**Bootstrap v5.3**](https://getbootstrap.com/)
 
-1. Luego abrir el index.html con un navegador
+---
+
+## 🚀 Cómo Ejecutar el Proyecto
+
+1. Cloná el repositorio en tu computadora:
+
+   ```bash
+   git clone <URL-del-repositorio>
+
 
 
 ## Autores 
